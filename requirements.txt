@@ -13,3 +13,4 @@ torchaudio
 joblib
 tqdm
 ankh
+seaborn
