@@ -8,3 +8,7 @@ wandb
 scikit-learn
 python-Levenshtein
 torch
+torchvision
+torchaudio
+joblib
+tqdm
