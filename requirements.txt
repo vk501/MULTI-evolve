@@ -5,3 +5,4 @@ scipy
 matplotlib
 biopython
 wandb
+scikit-learn
