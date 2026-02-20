@@ -7,3 +7,4 @@ biopython
 wandb
 scikit-learn
 python-Levenshtein
+torch==2.3.1+cpu
