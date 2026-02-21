@@ -1,3 +1,30 @@
+
+# Multi-Evolve Streamlit App (Forked Deployment)
+
+This repository contains a web-based deployment of the **MULTI-evolve** protein evolution framework, originally described in:
+
+**Hon et al., Science (2020)**  
+DOI: https://doi.org/10.1126/science.aea1820
+
+## About the Project
+The MULTI-evolve methodology provides multi-objective evolutionary optimization for protein sequences.
+This repository forks the original codebase and adds a **Streamlit interface** to make the tool accessible via a browser.
+
+## Features
+- Upload protein sequences (FASTA)
+- Run multi-objective evolutionary simulations
+- View and download results
+- Interactive UI with tabs and custom colors
+
+## Usage
+1. Visit the live app: [Streamlit App](https://multi-evolve-lbndchadlvfjeivne9sseu.streamlit.app)
+2. Upload your protein sequence(s)
+3. Configure simulation parameters
+4. Run the evolution and explore results
+
+> **Credit:** Algorithms and methodology are from the original publication (Hon et al., Science, DOI: 10.1126/science.aea1820). This project focuses on deployment via Streamlit for personal use.
+
+
 # Overview
 
 <p align="center">
