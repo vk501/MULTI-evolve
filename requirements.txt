@@ -11,6 +11,7 @@ scikit-learn
 torch==2.10.0
 python-Levenshtein
 sentencepiece==0.1.99
+transformers
 
 # Visualization
 seaborn
