@@ -1,4 +1,4 @@
-import ankh
+#import ankh
 import numpy as np
 import torch
 
