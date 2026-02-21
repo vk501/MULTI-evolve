@@ -21,6 +21,20 @@ from multievolve.featurizers import *
 from multievolve.predictors import *
 from multievolve.proposers import *
 
+# Google Analytics
+GA_CODE = """
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-2Z5F7ZX0YY"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-2Z5F7ZX0YY');
+</script>
+"""
+
+st.markdown(GA_CODE, unsafe_allow_html=True)
+
 def setup_page():
     """Configure basic Streamlit page settings"""
     st.set_page_config(
